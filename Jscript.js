@@ -5,7 +5,7 @@ var pcType = prompt("Pc or Laptops? ");
 while(pcType != 'Pc' && pcType != 'Laptops')
 {
     pcType = prompt("Pc or Laptops ");}
- var orderType =''
+ var orderType ='';
     if (pcType =='Pc')
     {
         alert("Please visit the pink word")
